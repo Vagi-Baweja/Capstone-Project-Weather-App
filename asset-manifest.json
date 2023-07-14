@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Capstone-Project-Weather-App/static/css/main.9061fca0.css",
+    "main.js": "/Capstone-Project-Weather-App/static/js/main.89eddec2.js",
+    "static/media/background.jpg": "/Capstone-Project-Weather-App/static/media/background.0ae3c5ff1253a4e72939.jpg",
+    "static/media/weathericons.gif": "/Capstone-Project-Weather-App/static/media/weathericons.3cadf68f57d7588285c3.gif",
+    "static/media/climate1.webp": "/Capstone-Project-Weather-App/static/media/climate1.8d5df3520ddad4c34ca6.webp",
+    "index.html": "/Capstone-Project-Weather-App/index.html",
+    "main.9061fca0.css.map": "/Capstone-Project-Weather-App/static/css/main.9061fca0.css.map",
+    "main.89eddec2.js.map": "/Capstone-Project-Weather-App/static/js/main.89eddec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9061fca0.css",
+    "static/js/main.89eddec2.js"
+  ]
+}
